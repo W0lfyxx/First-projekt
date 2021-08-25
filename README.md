@@ -1,2 +1,2 @@
 # First-projekt
-Ez az első knyvtár amibe dolgozni fogok.
+Ez az első könyvtár.
